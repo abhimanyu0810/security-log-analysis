@@ -1,0 +1,10 @@
+# Ignore logs and generated reports
+logs/
+reports/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
